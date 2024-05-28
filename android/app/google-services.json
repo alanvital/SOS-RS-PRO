@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982495787770",
+    "project_id": "sosrs-ed794",
+    "storage_bucket": "sosrs-ed794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982495787770:android:c4306c0c68885f1da3e743",
+        "android_client_info": {
+          "package_name": "com.mycompany.sosrspro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1In6ZAQ4-Iw0U23ZQfsf4q6edaMqKDf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
